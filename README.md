@@ -162,7 +162,11 @@ Load 1 vài document cơ bản của project ( nếu môi trường thực tế 
 - 📄 [SCA] Message List - Mail template.pdf
 - 📄 [SCA] DIVVY UP_画面定義書_Screen Spec - [UEV_01] 予定追加(Add Event).pdf
 
-<video src="./rag-divvy-up.webm" width="640" height="480" controls></video>
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/ScuhYdz6mS0/hqdefault.jpg
+)](https://www.youtube.com/watch?v=ScuhYdz6mS0 "Everything Is AWESOME")
+
+
 
 
 ## TODO
