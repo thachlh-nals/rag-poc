@@ -48,7 +48,7 @@ RAG bot sẽ:
 - Thành viên mới tự tra cứu mà không cần hỏi thủ công.
 - Nội dung luôn nhất quán vì lấy từ nguồn chuẩn.
 - Quản lý kiến thức linh hoạt cho cả business lẫn technical.
-
+- 
 ## 🧰 Công cụ gợi ý
 
 | **Mục đích**       | **Công cụ**                     |
