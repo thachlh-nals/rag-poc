@@ -57,3 +57,8 @@ RAG bot sẽ:
 | Embedding           | OpenAI, HuggingFace            |
 | Vector DB           | FAISS, Pinecone, Weaviate      |
 | UI bot              | Streamlit, ChatbotUI, Slackbot |
+
+## AWS CDK example
+
+Thư mục `aws-cdk/` chứa ví dụ khởi tạo S3 bucket và CloudFront distribution bằng AWS CDK (Python).
+Chạy `pip install -r aws-cdk/requirements.txt` để cài đặt phụ thuộc, sau đó dùng `cdk synth` để kiểm tra template CloudFormation.
